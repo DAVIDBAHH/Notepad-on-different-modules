@@ -1,2 +1,2 @@
-# Calculator-on-different-modules
-I made a calculator using different modules
+# Notepad on different modules
+I made a notepad on different modules
